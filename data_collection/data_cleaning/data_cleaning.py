@@ -130,9 +130,9 @@ def createRfcTable(list_of_dicts):
     for page in list_of_dicts:
         mediawiki_project = page['page_text'][0]['project']
         if mediawiki_project == 'wikipedia':
-            rf_list.append({"rfc_id" : count, "discussion_title" : page['page_text'][0]['section'], "discussion_result_comment_id" : comment_counter, "discussion_input_comment" : comment_counter+1, 'project' : mediawiki_project})
+            rf_list.append({"page_id": page['page_id'], "rfc_id" : count, "discussion_title" : page['page_text'][0]['section'], "discussion_result_comment_id" : comment_counter, "discussion_input_comment" : comment_counter+1, 'project' : mediawiki_project})
         else:
-            rf_list.append({"rfc_id" : count, "discussion_title" : page['page_title'], "discussion_result_comment_id" : comment_counter, "discussion_input_comment" : comment_counter, 'project' : mediawiki_project})
+            rf_list.append({"page_id": page['page_id'],"rfc_id" : count, "discussion_title" : page['page_title'], "discussion_result_comment_id" : comment_counter, "discussion_input_comment" : comment_counter, 'project' : mediawiki_project})
 
         dif =  page['page_text'][0]['id'] - comment_counter
         for i, comment in enumerate(page['page_text']):
