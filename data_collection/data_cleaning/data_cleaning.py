@@ -5,6 +5,7 @@ import mwparserfromhell
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+from datetime import datetime
 import os
 import sys
 sys.path.append('/home/dylan/python-mwchatter/')
@@ -118,7 +119,14 @@ def parseClosedRFC(text):
         return None
     parsed_text_dic['text'] = parsed_text['sections'][0]['comments'][0]['text_blocks'][0]
     parsed_text_dic['user'] = parsed_text['sections'][0]['comments'][0]['author']
-    parsed_text_dic['date'] = parsed_text['sections'][0]['comments'][0]['time_stamp']
+
+    # parse the input string into a datetime object
+    input_datetime = datetime.strptime(parsed_text['sections'][0]['comments'][0]['time_stamp'], "%H:%M, %d %B %Y (%Z)")
+
+    # format the datetime object in the desired output format
+    output_str = input_datetime.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    parsed_text_dic['date'] = output_str
 
     return parsed_text_dic
 
