@@ -184,10 +184,7 @@ def getUserGroups(user_id, wiki):
 def getUserInfoToJSON(userArray, output):
     """
     Takes list of users outputs list of JSON objects containing wiki projects, user rights, edit count, registration and first comment dates
-    """
-    '''with open(output, 'w') as file:
-        file.write('[\n')
-        file.flush()'''    
+    """ 
     with multiprocessing.Pool(processes=8) as pool:
         results = pool.map(worker, userArray)
         with open(output, 'w') as file:
