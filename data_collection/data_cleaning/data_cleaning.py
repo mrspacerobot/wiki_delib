@@ -7,10 +7,11 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from datetime import datetime
 import os
+'''
 import sys
 sys.path.append('/home/dylan/python-mwchatter/')
 import wikichatter as wc
-
+'''
 
 wikipedia_project_string = 'wikipedia'
 wikidata_project_string = 'wikidata'
