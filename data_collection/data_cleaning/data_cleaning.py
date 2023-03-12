@@ -21,10 +21,15 @@ def get_RFC_Comment_Table(wikipedia, wikidata, meta):
     projects_list = [wikipedia,wikidata,meta]
     for project in projects_list:
         project = removeDuplicatePages(project)
-    projects_list = parseWikipediaText(projects_list)
     projects_list = addProjectName(projects_list)
     concat_list = projects_list[0] + projects_list[1] + projects_list[2]
     return concat_list, createRfcTable(concat_list)
+
+def removePagesWithEmptyText(project):
+    for page in project:
+        if page['page_text'] is None:
+            project.remove(page)
+    return project
 
 def find_matching_closed_rfc_tags(text):
     """
@@ -39,7 +44,11 @@ def find_matching_closed_rfc_tags(text):
     top_tag_pos = None
     bottom_tag_pos = None
     open_tags = []
+    if text is None:
+        return text
     for x, comment in enumerate(text):
+        if comment == None:
+            continue
         lower = comment['text'].lower()
         for i, char in enumerate(lower):
                     if char == '{' and lower[i:i+len(top_tag)] == top_tag:
@@ -72,18 +81,16 @@ def removeDuplicatePages(list_of_dicts):
 
     # loop through the list of json objects
     for obj in list_of_dicts:
-        if not obj['page_text']:
+        # convert json object to tuple
+        page_id = (obj['page_id'],str(obj['page_text']))
+        # check if the tuple is already in the set
+        if page_id in unique_objs:
+            # remove duplicate object
             list_of_dicts.remove(obj)
         else:
-            # convert json object to tuple
-            page_id = (obj['page_id'],str(obj['page_text']))
-            # check if the tuple is already in the set
-            if page_id in unique_objs:
-                # remove duplicate object
-                list_of_dicts.remove(obj)
-            else:
-                # add the tuple to the set of unique objects
-                unique_objs.add(page_id)
+            # add the tuple to the set of unique objects
+            unique_objs.add(page_id)
+    return list_of_dicts
 
 def parseWikipediaText(project_list):
     """
@@ -138,9 +145,9 @@ def createRfcTable(list_of_dicts):
     for page in list_of_dicts:
         mediawiki_project = page['page_text'][0]['project']
         if mediawiki_project == 'wikipedia':
-            rf_list.append({"page_id": page['page_id'], "rfc_id" : count, "discussion_title" : page['page_text'][0]['section'], "discussion_result_comment_id" : comment_counter, "discussion_input_comment" : comment_counter+1, 'project' : mediawiki_project})
+            rf_list.append({"page_id": page['page_id'], "rfc_id" : count, "page_title" : page['page_title'], "discussion_input_comment" : comment_counter, 'project' : mediawiki_project})
         else:
-            rf_list.append({"page_id": page['page_id'],"rfc_id" : count, "discussion_title" : page['page_title'], "discussion_result_comment_id" : comment_counter, "discussion_input_comment" : comment_counter, 'project' : mediawiki_project})
+            rf_list.append({"page_id": page['page_id'],"rfc_id" : count, "page_title" : page['page_title'], "discussion_input_comment" : comment_counter, 'project' : mediawiki_project})
 
         dif =  page['page_text'][0]['id'] - comment_counter
         for i, comment in enumerate(page['page_text']):
