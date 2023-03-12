@@ -25,12 +25,6 @@ def get_RFC_Comment_Table(wikipedia, wikidata, meta):
     concat_list = projects_list[0] + projects_list[1] + projects_list[2]
     return concat_list, createRfcTable(concat_list)
 
-def removePagesWithEmptyText(project):
-    for page in project:
-        if page['page_text'] is None:
-            project.remove(page)
-    return project
-
 def find_matching_closed_rfc_tags(text):
     """
     Find the positions of the {{closed rfc top}} and {{closed rfc bottom}} tags in a text and return the position of the
@@ -78,19 +72,16 @@ def removeDuplicatePages(list_of_dicts):
     #removing duplicates
     # create a set to store unique tuples of objects
     unique_objs = set()
-
+    final_list = []
     # loop through the list of json objects
     for obj in list_of_dicts:
         # convert json object to tuple
         page_id = (obj['page_id'],str(obj['page_text']))
         # check if the tuple is already in the set
-        if page_id in unique_objs:
-            # remove duplicate object
-            list_of_dicts.remove(obj)
-        else:
-            # add the tuple to the set of unique objects
+        if page_id not in unique_objs:
             unique_objs.add(page_id)
-    return list_of_dicts
+            final_list.append(obj)
+    return final_list
 
 def parseWikipediaText(project_list):
     """
