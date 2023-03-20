@@ -19,8 +19,9 @@ meta_project_string = 'meta.wikimedia'
 
 def get_RFC_Comment_Table(wikipedia, wikidata, meta):
     projects_list = [wikipedia,wikidata,meta]
+    new_projects_list = []
     for project in projects_list:
-        project = removeDuplicatePages(project)
+        new_projects_list.append(removeDuplicatePages(project))
     projects_list = addProjectName(projects_list)
     concat_list = projects_list[0] + projects_list[1] + projects_list[2]
     return concat_list, createRfcTable(concat_list)

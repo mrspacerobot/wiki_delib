@@ -1552,145 +1552,145 @@ page_id,rfc_id,page_title,discussion_input_comment,project,closing_date
 73045977,1550,Wikipedia:Administrators' noticeboard/Archive350,60213,wikipedia,
 73131277,1551,Wikipedia:Village pump (proposals)/Archive 198,60326,wikipedia,2023-02-24T16:23:00Z
 1948,1552,Wikidata:Requests for comment/Inclusion of non-article pages,60386,wikidata,2013-02-01T16:08:00Z
-57802,1553,Wikidata:Requests for comment/Which road to take for help pages,60491,wikidata,2013-02-01T16:08:00Z
-2122196,1554,Wikidata:Requests for comment/Defining administrators,60498,wikidata,2013-02-01T16:08:00Z
-3147634,1555,Wikidata:Requests for comment/Add links to other Wikimedia projects,60598,wikidata,2013-02-01T16:08:00Z
-4256553,1556,Wikidata:Requests for comment/How to define a data structure for Wikidata?,60602,wikidata,2013-02-01T16:08:00Z
-5424178,1557,Wikidata:Requests for comment/Species and genus,60603,wikidata,2013-02-01T16:08:00Z
-6330062,1558,Wikidata:Requests for comment/Opting out of Global sysops,60611,wikidata,2013-02-01T16:08:00Z
-6340208,1559,Wikidata:Requests for comment/Inclusion of non-article pages 2,60707,wikidata,2013-02-01T16:08:00Z
-6908443,1560,Wikidata:Requests for comment/Merge article interwikis and category interwikis,60764,wikidata,2013-02-01T16:08:00Z
-8035453,1561,Wikidata:Requests for comment/Several datatypes for the same property,60776,wikidata,2013-02-01T16:08:00Z
-8120423,1562,Wikidata:Requests for comment/Global signature,60786,wikidata,2013-02-01T16:08:00Z
-8158780,1563,Wikidata:Requests for comment/Sock puppetry,60788,wikidata,2013-02-01T16:08:00Z
-11644431,1564,Wikidata:Requests for comment/Defining bureaucrats,60798,wikidata,2013-02-01T16:08:00Z
-12006435,1565,Wikidata:Requests for comment/Adopt metawiki policy for translation administrators,61302,wikidata,2013-02-01T16:08:00Z
-12154378,1566,Wikidata:Requests for comment/Right to vanish,61319,wikidata,2013-02-01T16:08:00Z
-12193042,1567,Wikidata:Requests for comment/Script to add banners on an item,61325,wikidata,2013-02-01T16:08:00Z
-12355273,1568,Wikidata:Requests for comment/References and sources,61334,wikidata,2013-02-01T16:08:00Z
-12662234,1569,Wikidata:Requests for comment/Items for user pages,61537,wikidata,2013-02-01T16:08:00Z
-12682317,1570,Wikidata:Requests for comment/Wikidata:Vandalism,61545,wikidata,2013-02-01T16:08:00Z
-13186240,1571,Wikidata:Requests for comment/Abusefilter-view-private and abusefilter-log-private for rollbackers,61561,wikidata,2013-02-01T16:08:00Z
-13344554,1572,Wikidata:Requests for comment/Enable flood flag,61571,wikidata,2013-02-01T16:08:00Z
-13345356,1573,Wikidata:Requests for comment/Labels and descriptions in language variants,61675,wikidata,2013-02-01T16:08:00Z
-13391018,1574,Wikidata:Requests for comment/Items for Wikimedia projects besides Wikipedia,61695,wikidata,2013-02-01T16:08:00Z
-14350130,1575,Wikidata:Requests for comment/Disambiguation pages guidelines,61854,wikidata,2013-02-01T16:08:00Z
-14365999,1576,Wikidata:Requests for comment/Defining CheckUser,61883,wikidata,2013-02-01T16:08:00Z
-14641600,1577,Wikidata:Requests for comment/Property documentation,62222,wikidata,2013-02-01T16:08:00Z
-15040035,1578,Wikidata:Requests for comment/Editprotected and Editinterface for Translation Administrators,62227,wikidata,2013-02-01T16:08:00Z
-15087662,1579,Wikidata:Requests for comment/Exclusion of pages in the file namespace,62283,wikidata,2013-02-01T16:08:00Z
-15088588,1580,Wikidata:Requests for comment/Place of the property documentation,62303,wikidata,2013-02-01T16:08:00Z
-15088703,1581,Wikidata:Requests for comment/Time DataType Properties,62318,wikidata,2013-02-01T16:08:00Z
-15092024,1582,Wikidata:Requests for comment/How to classify items: lots of specific type properties or a few generic ones?,62342,wikidata,2013-02-01T16:08:00Z
-15157525,1583,Wikidata:Requests for comment/Personal names,62391,wikidata,2013-02-01T16:08:00Z
-15251222,1584,Wikidata:Requests for comment/Primary sorting property,62432,wikidata,2013-02-01T16:08:00Z
-15323496,1585,Wikidata:Requests for comment/Image properties: many properties or many qualifiers,62559,wikidata,2013-02-01T16:08:00Z
-15603026,1586,Wikidata:Requests for comment/Exclusion criteria in Wikipedia namespace,62593,wikidata,2013-02-01T16:08:00Z
-15904635,1587,Wikidata:Requests for comment/Typing : class ⇄ instance relationship in Wikidata,62620,wikidata,2013-02-01T16:08:00Z
-16175913,1588,Wikidata:Requests for comment/Property proposal organisation reform to a more Model (or infobox) oriented process,62657,wikidata,2013-02-01T16:08:00Z
-16293645,1589,Wikidata:Requests for comment/Migrating away from GND main type,62664,wikidata,2013-02-01T16:08:00Z
-16294932,1590,Wikidata:Requests for comment/Guidelines for RfC process,62840,wikidata,2013-02-01T16:08:00Z
-16333575,1591,Wikidata:Requests for comment/Geocoordinates on people,62869,wikidata,2013-02-01T16:08:00Z
-16338609,1592,Wikidata:Requests for comment/Can we reuse anything from DBpedia?,62898,wikidata,2013-02-01T16:08:00Z
-16675758,1593,Wikidata:Requests for comment/Requests for undeletion,62899,wikidata,2013-02-01T16:08:00Z
-16727626,1594,"Wikidata:Requests for comment/Restructuring of the ""minor"" user rights",62910,wikidata,2013-02-01T16:08:00Z
-16738723,1595,Wikidata:Requests for comment/links to wikidata from a template at an arbitrary WMF project page,63104,wikidata,2013-02-01T16:08:00Z
-16809631,1596,Wikidata:Requests for comment/Dimensions and units for the quantity datatype,63108,wikidata,2013-02-01T16:08:00Z
-16827526,1597,Wikidata:Requests for comment/Improving handling of labels of deleted entities in archived discussions,63110,wikidata,2013-02-01T16:08:00Z
-16924923,1598,Wikidata:Requests for comment/Inactive admin,63133,wikidata,2013-02-01T16:08:00Z
-16952265,1599,Wikidata:Requests for comment/Bot policy,63217,wikidata,2013-02-01T16:08:00Z
-17043098,1600,Wikidata:Requests for comment/Interwiki links for special pages,63259,wikidata,2013-02-01T16:08:00Z
-17053068,1601,Wikidata:Requests for comment/Property documentation redux,63372,wikidata,2013-02-01T16:08:00Z
-17071614,1602,Wikidata:Requests for comment/Interwiki links for subpages,63389,wikidata,2013-02-01T16:08:00Z
-17252955,1603,Wikidata:Requests for comment/Make Symmetric & Inverse Property addition automatic and bidirectional,63494,wikidata,2013-02-01T16:08:00Z
-17345859,1604,Wikidata:Requests for comment/DBpedia import process,63501,wikidata,2013-02-01T16:08:00Z
-17355492,1605,Wikidata:Requests for comment/How to deal with given names and surnames,63505,wikidata,2013-02-01T16:08:00Z
-17360314,1606,Wikidata:Requests for comment/Administative divisions and populated places,63545,wikidata,2013-02-01T16:08:00Z
-17396102,1607,Wikidata:Requests for comment/Non-WMF wikis,63556,wikidata,2013-02-01T16:08:00Z
-17410092,1608,"Wikidata:Requests for comment/Define lists on both ""Wikimedia lists"" and ""Wikimedia categories""",63575,wikidata,2013-02-01T16:08:00Z
-17558121,1609,"Wikidata:Requests for comment/Organizing statements, sitelinks, and external identifiers",63625,wikidata,2013-02-01T16:08:00Z
-17581087,1610,Wikidata:Requests for comment/Property: belongs to jurisdiction,63646,wikidata,2013-02-01T16:08:00Z
-17892630,1611,Wikidata:Requests for comment/Quality is measurable,63659,wikidata,2013-02-01T16:08:00Z
-18312834,1612,Wikidata:Requests for comment/Clarifying the requirements for property creation,63660,wikidata,2013-02-01T16:08:00Z
-18776438,1613,"Wikidata:Requests for comment/Refining ""part of""",63784,wikidata,2013-02-01T16:08:00Z
-18936941,1614,Wikidata:Requests for comment/List of properties,63840,wikidata,2013-02-01T16:08:00Z
-19029518,1615,Wikidata:Requests for comment/Blocking policy,63852,wikidata,2013-02-01T16:08:00Z
-19932600,1616,Wikidata:Requests for comment/Sitelinks with fragments,63855,wikidata,2013-02-01T16:08:00Z
-20227220,1617,Wikidata:Requests for comment/Conflict of Interest,63898,wikidata,2013-02-01T16:08:00Z
-20257816,1618,Wikidata:Requests for comment/Items for given names,63919,wikidata,2013-02-01T16:08:00Z
-20313783,1619,Wikidata:Requests for comment/Speedy vs Regular deletion,63925,wikidata,2013-02-01T16:08:00Z
-20974093,1620,Wikidata:Requests for comment/Reforming administrator inactivity criteria,63968,wikidata,2013-02-01T16:08:00Z
-21182779,1621,Wikidata:Requests for comment/Guidance needed for proper interwiki linkage,64060,wikidata,2013-02-01T16:08:00Z
-21402079,1622,"Wikidata:Requests for comment/Review of ""change datatype to monolingual"" actions for some properties",64069,wikidata,2013-02-01T16:08:00Z
-21403381,1623,Wikidata:Requests for comment/Adopt Help:Classification as an official help page,64078,wikidata,2013-02-01T16:08:00Z
-21428445,1624,Wikidata:Requests for comment/Opting out of Global sysops 2,64157,wikidata,2013-02-01T16:08:00Z
-21498285,1625,Wikidata:Requests for comment/Wikidata:Notability overhaul,64199,wikidata,2013-02-01T16:08:00Z
-21529502,1626,Wikidata:Requests for comment/Datatype identifier,64263,wikidata,2013-02-01T16:08:00Z
-21543984,1627,Wikidata:Requests for comment/Commons category on Wikimedia category item,64268,wikidata,2013-02-01T16:08:00Z
-21689602,1628,Wikidata:Requests for comment/Links to redirects with possibilities,64279,wikidata,2013-02-01T16:08:00Z
-21759175,1629,Wikidata:Requests for comment/Help:Basic membership properties,64285,wikidata,2013-02-01T16:08:00Z
-21871538,1630,"Wikidata:Requests for comment/Category commons P373 and ""Other sites""",64297,wikidata,2013-02-01T16:08:00Z
-23162215,1631,Wikidata:Requests for comment/Are colors instance-of or subclass-of color,64330,wikidata,2013-02-01T16:08:00Z
-23215917,1632,Wikidata:Requests for comment/Derived properties,64374,wikidata,2013-02-01T16:08:00Z
-23455240,1633,Wikidata:Requests for comment/paintings and wikidata,64377,wikidata,2013-02-01T16:08:00Z
-23562153,1634,Wikidata:Requests for comment/Improve bot policy for data import and data modification,64378,wikidata,2013-02-01T16:08:00Z
-23600768,1635,Wikidata:Requests for comment/Duplicating items,64470,wikidata,2013-02-01T16:08:00Z
-23787013,1636,Wikidata:Requests for comment/Q21205906 and Q15781,64471,wikidata,2013-02-01T16:08:00Z
-24696686,1637,Wikidata:Requests for comment/DMS datatype,64496,wikidata,2013-02-01T16:08:00Z
-24939211,1638,Wikidata:Requests for comment/Extinct taxons,64500,wikidata,2013-02-01T16:08:00Z
-24971847,1639,"Wikidata:Requests for comment/Notability: ""at least one valid sitelink"" to Wikipedia etc",64506,wikidata,2013-02-01T16:08:00Z
-25269099,1640,Wikidata:Requests for comment/Reforming the property creation process,64507,wikidata,2013-02-01T16:08:00Z
-25314420,1641,Wikidata:Requests for comment/Reforming the property creation process/fr,64738,wikidata,2013-02-01T16:08:00Z
-25314607,1642,Wikidata:Requests for comment/Reforming the property creation process/en,64969,wikidata,2013-02-01T16:08:00Z
-25315021,1643,Wikidata:Requests for comment/Reforming the property creation process/eo,65200,wikidata,2013-02-01T16:08:00Z
-25506566,1644,Wikidata:Requests for comment/Reforming the property creation process/de,65431,wikidata,2013-02-01T16:08:00Z
-25650632,1645,Wikidata:Requests for comment/Reforming the property creation process/pl,65662,wikidata,2013-02-01T16:08:00Z
-26212393,1646,Wikidata:Requests for comment/Semi-automatic Addition of References to Wikidata Statements,65893,wikidata,2013-02-01T16:08:00Z
-26225082,1647,Wikidata:Requests for comment/Standards for property proposal discussions,65917,wikidata,2013-02-01T16:08:00Z
-26417286,1648,Wikidata:Requests for comment/RfP voting eligibility,66030,wikidata,2013-02-01T16:08:00Z
-26417642,1649,Wikidata:Requests for comment/Verifiability and living persons,66091,wikidata,2013-02-01T16:08:00Z
-27134886,1650,Wikidata:Requests for comment/Picture of the day,66316,wikidata,2013-02-01T16:08:00Z
-28209016,1651,Wikidata:Requests for comment/Data quality framework for Wikidata,66335,wikidata,2013-02-01T16:08:00Z
-28647058,1652,Wikidata:Requests for comment/Winner property for multi-tournament items,66399,wikidata,2013-02-01T16:08:00Z
-29373224,1653,Wikidata:Requests for comment/Editing descriptions from Wikipedia Android app,66400,wikidata,2013-02-01T16:08:00Z
-29574982,1654,Wikidata:Requests for comment/How to make new languages enabled on Wikidata,66410,wikidata,2013-02-01T16:08:00Z
-30398866,1655,Wikidata:Requests for comment/Property talk:P2868,66425,wikidata,2013-02-01T16:08:00Z
-30399164,1656,Wikidata:Requests for comment/P171,66427,wikidata,2013-02-01T16:08:00Z
-30482955,1657,Wikidata:Requests for comment/Q189053,66446,wikidata,2013-02-01T16:08:00Z
-30696641,1658,Wikidata:Requests for comment/Malformed input,66451,wikidata,2013-02-01T16:08:00Z
-30816988,1659,Wikidata:Requests for comment/Proposed client side disambiguation page,66453,wikidata,2013-02-01T16:08:00Z
-31295437,1660,Wikidata:Requests for comment/Updating References for External Data,66464,wikidata,2013-02-01T16:08:00Z
-31690757,1661,Wikidata:Requests for comment/Allow the creation of links to redirects in Wikidata,66470,wikidata,2013-02-01T16:08:00Z
-31914160,1662,"Wikidata:Requests for comment/How would you state the number of (rooms, restaurants, suites) in a hotel?",66716,wikidata,2013-02-01T16:08:00Z
-31944152,1663,Wikidata:Requests for comment/Findagrave removed as a source for information,66722,wikidata,2013-02-01T16:08:00Z
-32949067,1664,"Wikidata:Requests for comment/When multiple sources are cited for a fact, should IMDB be deleted as one of them when used",66794,wikidata,2013-02-01T16:08:00Z
-34578951,1665,Wikidata:Requests for comment/Property collapsing,66824,wikidata,2013-02-01T16:08:00Z
-34651219,1666,Wikidata:Requests for comment/Wikidata:Notabilty wording,66828,wikidata,2013-02-01T16:08:00Z
-43102463,1667,Wikidata:Requests for comment/Association Football Matches,66829,wikidata,2013-02-01T16:08:00Z
-43583596,1668,Wikidata:Requests for comment/Defining account creators,66836,wikidata,2013-02-01T16:08:00Z
-45935191,1669,Wikidata:Requests for comment/Privacy and Living People,66871,wikidata,2013-02-01T16:08:00Z
-53039243,1670,Wikidata:Requests for comment/Sort identifier statements on items that are instances of human,67063,wikidata,2013-02-01T16:08:00Z
-53533711,1671,"Wikidata:Requests for comment/make ""developer"" and ""programmer"" properties clearer",67129,wikidata,2013-02-01T16:08:00Z
-54307522,1672,Wikidata:Requests for comment/how to manage software versions,67144,wikidata,2013-02-01T16:08:00Z
-55379135,1673,Wikidata:Requests for comment/Help:Modelling,67163,wikidata,2013-02-01T16:08:00Z
-55840740,1674,Wikidata:Requests for comment/Adding short code for cryptocurrencies,67179,wikidata,2013-02-01T16:08:00Z
-56135451,1675,Wikidata:Requests for comment/1983-01-01 date of birth vs. 1988-00-00 date of birth (both only have a year specified),67183,wikidata,2013-02-01T16:08:00Z
-57237311,1676,Wikidata:Requests for comment/Different concepts in a single item,67185,wikidata,2013-02-01T16:08:00Z
-57659066,1677,Wikidata:Requests for comment/Best practices for statement ranks for disappeared entities,67196,wikidata,2013-02-01T16:08:00Z
-59054788,1678,Wikidata:Requests for comment/Many surname items had been un merged because of failure to communicate.,67212,wikidata,2013-02-01T16:08:00Z
-59279646,1679,Wikidata:Requests for comment/How to handle heat treating as a qualifier for material properties ?,67226,wikidata,2013-02-01T16:08:00Z
-61359555,1680,Wikidata:Requests for comment/semi-protection to prevent vandalism on most used Items,67230,wikidata,2013-02-01T16:08:00Z
-61585315,1681,Wikidata:Requests for comment/semi-protection to prevent vandalism on most used Items (part 2),67311,wikidata,2013-02-01T16:08:00Z
-61664592,1682,Wikidata:Requests for comment/Talk pages consultation 2019,67335,wikidata,2013-02-01T16:08:00Z
-63672937,1683,"Wikidata:Requests for comment/Talk pages consultation 2019, phase 2",67369,wikidata,2013-02-01T16:08:00Z
-79247036,1684,Wikidata:Requests for comment/Sort identifiers,67395,wikidata,2013-02-01T16:08:00Z
-93205993,1685,Wikidata:Requests for comment/Disallow merging into newer entity,67474,wikidata,2013-02-01T16:08:00Z
-97087952,1686,Wikidata:Requests for comment/Alternate disclosure policy,67514,wikidata,2013-02-01T16:08:00Z
-98737867,1687,Wikidata:Requests for comment/Cleaning up the ontology of anonymous,67543,wikidata,2013-02-01T16:08:00Z
-99527480,1688,Wikidata:Requests for comment/Adopt Help:SitelinksToRedirects as policy,67605,wikidata,2013-02-01T16:08:00Z
-104122507,1689,Wikidata:Requests for comment/Frequency of YouTube follower count data,67620,wikidata,2013-02-01T16:08:00Z
-104775611,1690,Wikidata:Requests for comment/How to avoid to use male form as a generic form in property labels in French?,67644,wikidata,2013-02-01T16:08:00Z
-106533331,1691,Wikidata:Requests for comment/I want to delete Q111589780.,67691,wikidata,2013-02-01T16:08:00Z
+57802,1553,Wikidata:Requests for comment/Which road to take for help pages,60491,wikidata,
+2122196,1554,Wikidata:Requests for comment/Defining administrators,60498,wikidata,2013-01-22T18:42:00Z
+3147634,1555,Wikidata:Requests for comment/Add links to other Wikimedia projects,60598,wikidata,2013-05-01T20:42:00Z
+4256553,1556,Wikidata:Requests for comment/How to define a data structure for Wikidata?,60602,wikidata,2013-03-10T01:52:00Z
+5424178,1557,Wikidata:Requests for comment/Species and genus,60603,wikidata,2013-06-22T07:54:00Z
+6330062,1558,Wikidata:Requests for comment/Opting out of Global sysops,60611,wikidata,
+6340208,1559,Wikidata:Requests for comment/Inclusion of non-article pages 2,60707,wikidata,2013-04-09T06:34:00Z
+6908443,1560,Wikidata:Requests for comment/Merge article interwikis and category interwikis,60764,wikidata,
+8035453,1561,Wikidata:Requests for comment/Several datatypes for the same property,60776,wikidata,
+8120423,1562,Wikidata:Requests for comment/Global signature,60786,wikidata,
+8158780,1563,Wikidata:Requests for comment/Sock puppetry,60788,wikidata,
+11644431,1564,Wikidata:Requests for comment/Defining bureaucrats,60798,wikidata,2013-04-12T20:40:00Z
+12006435,1565,Wikidata:Requests for comment/Adopt metawiki policy for translation administrators,61302,wikidata,2013-04-14T21:28:00Z
+12154378,1566,Wikidata:Requests for comment/Right to vanish,61319,wikidata,2013-04-28T00:20:00Z
+12193042,1567,Wikidata:Requests for comment/Script to add banners on an item,61325,wikidata,
+12355273,1568,Wikidata:Requests for comment/References and sources,61334,wikidata,
+12662234,1569,Wikidata:Requests for comment/Items for user pages,61537,wikidata,2013-04-24T03:58:00Z
+12682317,1570,Wikidata:Requests for comment/Wikidata:Vandalism,61545,wikidata,2013-05-01T20:45:00Z
+13186240,1571,Wikidata:Requests for comment/Abusefilter-view-private and abusefilter-log-private for rollbackers,61561,wikidata,
+13344554,1572,Wikidata:Requests for comment/Enable flood flag,61571,wikidata,
+13345356,1573,Wikidata:Requests for comment/Labels and descriptions in language variants,61675,wikidata,
+13391018,1574,Wikidata:Requests for comment/Items for Wikimedia projects besides Wikipedia,61695,wikidata,
+14350130,1575,Wikidata:Requests for comment/Disambiguation pages guidelines,61854,wikidata,2013-06-22T07:45:00Z
+14365999,1576,Wikidata:Requests for comment/Defining CheckUser,61883,wikidata,
+14641600,1577,Wikidata:Requests for comment/Property documentation,62222,wikidata,
+15040035,1578,Wikidata:Requests for comment/Editprotected and Editinterface for Translation Administrators,62227,wikidata,2013-06-01T03:56:00Z
+15087662,1579,Wikidata:Requests for comment/Exclusion of pages in the file namespace,62283,wikidata,
+15088588,1580,Wikidata:Requests for comment/Place of the property documentation,62303,wikidata,
+15088703,1581,Wikidata:Requests for comment/Time DataType Properties,62318,wikidata,2013-08-01T23:10:00Z
+15092024,1582,Wikidata:Requests for comment/How to classify items: lots of specific type properties or a few generic ones?,62342,wikidata,
+15157525,1583,Wikidata:Requests for comment/Personal names,62391,wikidata,
+15251222,1584,Wikidata:Requests for comment/Primary sorting property,62432,wikidata,
+15323496,1585,Wikidata:Requests for comment/Image properties: many properties or many qualifiers,62559,wikidata,
+15603026,1586,Wikidata:Requests for comment/Exclusion criteria in Wikipedia namespace,62593,wikidata,
+15904635,1587,Wikidata:Requests for comment/Typing : class ⇄ instance relationship in Wikidata,62620,wikidata,2015-04-11T11:08:00Z
+16175913,1588,Wikidata:Requests for comment/Property proposal organisation reform to a more Model (or infobox) oriented process,62657,wikidata,
+16293645,1589,Wikidata:Requests for comment/Migrating away from GND main type,62664,wikidata,
+16294932,1590,Wikidata:Requests for comment/Guidelines for RfC process,62840,wikidata,
+16333575,1591,Wikidata:Requests for comment/Geocoordinates on people,62869,wikidata,
+16338609,1592,Wikidata:Requests for comment/Can we reuse anything from DBpedia?,62898,wikidata,
+16675758,1593,Wikidata:Requests for comment/Requests for undeletion,62899,wikidata,
+16727626,1594,"Wikidata:Requests for comment/Restructuring of the ""minor"" user rights",62910,wikidata,
+16738723,1595,Wikidata:Requests for comment/links to wikidata from a template at an arbitrary WMF project page,63104,wikidata,
+16809631,1596,Wikidata:Requests for comment/Dimensions and units for the quantity datatype,63108,wikidata,
+16827526,1597,Wikidata:Requests for comment/Improving handling of labels of deleted entities in archived discussions,63110,wikidata,
+16924923,1598,Wikidata:Requests for comment/Inactive admin,63133,wikidata,
+16952265,1599,Wikidata:Requests for comment/Bot policy,63217,wikidata,
+17043098,1600,Wikidata:Requests for comment/Interwiki links for special pages,63259,wikidata,
+17053068,1601,Wikidata:Requests for comment/Property documentation redux,63372,wikidata,
+17071614,1602,Wikidata:Requests for comment/Interwiki links for subpages,63389,wikidata,
+17252955,1603,Wikidata:Requests for comment/Make Symmetric & Inverse Property addition automatic and bidirectional,63494,wikidata,
+17345859,1604,Wikidata:Requests for comment/DBpedia import process,63501,wikidata,
+17355492,1605,Wikidata:Requests for comment/How to deal with given names and surnames,63505,wikidata,
+17360314,1606,Wikidata:Requests for comment/Administative divisions and populated places,63545,wikidata,
+17396102,1607,Wikidata:Requests for comment/Non-WMF wikis,63556,wikidata,
+17410092,1608,"Wikidata:Requests for comment/Define lists on both ""Wikimedia lists"" and ""Wikimedia categories""",63575,wikidata,2016-04-15T15:32:00Z
+17558121,1609,"Wikidata:Requests for comment/Organizing statements, sitelinks, and external identifiers",63625,wikidata,2016-04-15T19:53:00Z
+17581087,1610,Wikidata:Requests for comment/Property: belongs to jurisdiction,63646,wikidata,2016-04-15T20:23:00Z
+17892630,1611,Wikidata:Requests for comment/Quality is measurable,63659,wikidata,
+18312834,1612,Wikidata:Requests for comment/Clarifying the requirements for property creation,63660,wikidata,
+18776438,1613,"Wikidata:Requests for comment/Refining ""part of""",63784,wikidata,2016-08-20T09:20:00Z
+18936941,1614,Wikidata:Requests for comment/List of properties,63840,wikidata,
+19029518,1615,Wikidata:Requests for comment/Blocking policy,63852,wikidata,2016-08-20T09:17:00Z
+19932600,1616,Wikidata:Requests for comment/Sitelinks with fragments,63855,wikidata,
+20227220,1617,Wikidata:Requests for comment/Conflict of Interest,63898,wikidata,
+20257816,1618,Wikidata:Requests for comment/Items for given names,63919,wikidata,2016-08-20T09:12:00Z
+20313783,1619,Wikidata:Requests for comment/Speedy vs Regular deletion,63925,wikidata,
+20974093,1620,Wikidata:Requests for comment/Reforming administrator inactivity criteria,63968,wikidata,2015-03-31T17:14:00Z
+21182779,1621,Wikidata:Requests for comment/Guidance needed for proper interwiki linkage,64060,wikidata,2016-08-20T09:11:00Z
+21402079,1622,"Wikidata:Requests for comment/Review of ""change datatype to monolingual"" actions for some properties",64069,wikidata,2016-08-20T09:09:00Z
+21403381,1623,Wikidata:Requests for comment/Adopt Help:Classification as an official help page,64078,wikidata,2016-08-20T09:07:00Z
+21428445,1624,Wikidata:Requests for comment/Opting out of Global sysops 2,64157,wikidata,
+21498285,1625,Wikidata:Requests for comment/Wikidata:Notability overhaul,64199,wikidata,2016-08-20T08:33:00Z
+21529502,1626,Wikidata:Requests for comment/Datatype identifier,64263,wikidata,
+21543984,1627,Wikidata:Requests for comment/Commons category on Wikimedia category item,64268,wikidata,
+21689602,1628,Wikidata:Requests for comment/Links to redirects with possibilities,64279,wikidata,2016-08-20T09:03:00Z
+21759175,1629,Wikidata:Requests for comment/Help:Basic membership properties,64285,wikidata,
+21871538,1630,"Wikidata:Requests for comment/Category commons P373 and ""Other sites""",64297,wikidata,2016-08-20T09:02:00Z
+23162215,1631,Wikidata:Requests for comment/Are colors instance-of or subclass-of color,64330,wikidata,2016-08-20T08:35:00Z
+23215917,1632,Wikidata:Requests for comment/Derived properties,64374,wikidata,2016-08-20T08:50:00Z
+23455240,1633,Wikidata:Requests for comment/paintings and wikidata,64377,wikidata,
+23562153,1634,Wikidata:Requests for comment/Improve bot policy for data import and data modification,64378,wikidata,2016-04-13T18:58:00Z
+23600768,1635,Wikidata:Requests for comment/Duplicating items,64470,wikidata,
+23787013,1636,Wikidata:Requests for comment/Q21205906 and Q15781,64471,wikidata,2016-04-13T18:43:00Z
+24696686,1637,Wikidata:Requests for comment/DMS datatype,64496,wikidata,2016-08-20T08:41:00Z
+24939211,1638,Wikidata:Requests for comment/Extinct taxons,64500,wikidata,2016-08-20T08:43:00Z
+24971847,1639,"Wikidata:Requests for comment/Notability: ""at least one valid sitelink"" to Wikipedia etc",64506,wikidata,
+25269099,1640,Wikidata:Requests for comment/Reforming the property creation process,64507,wikidata,2016-04-13T18:32:00Z
+25314420,1641,Wikidata:Requests for comment/Reforming the property creation process/fr,64738,wikidata,2016-04-13T18:32:00Z
+25314607,1642,Wikidata:Requests for comment/Reforming the property creation process/en,64969,wikidata,2016-04-13T18:32:00Z
+25315021,1643,Wikidata:Requests for comment/Reforming the property creation process/eo,65200,wikidata,2016-04-13T18:32:00Z
+25506566,1644,Wikidata:Requests for comment/Reforming the property creation process/de,65431,wikidata,2016-04-13T18:32:00Z
+25650632,1645,Wikidata:Requests for comment/Reforming the property creation process/pl,65662,wikidata,2016-04-13T18:32:00Z
+26212393,1646,Wikidata:Requests for comment/Semi-automatic Addition of References to Wikidata Statements,65893,wikidata,2016-11-21T15:34:00Z
+26225082,1647,Wikidata:Requests for comment/Standards for property proposal discussions,65917,wikidata,2016-08-19T14:54:00Z
+26417286,1648,Wikidata:Requests for comment/RfP voting eligibility,66030,wikidata,2016-08-19T15:05:00Z
+26417642,1649,Wikidata:Requests for comment/Verifiability and living persons,66091,wikidata,2016-08-20T08:34:00Z
+27134886,1650,Wikidata:Requests for comment/Picture of the day,66316,wikidata,2017-01-11T21:16:00Z
+28209016,1651,Wikidata:Requests for comment/Data quality framework for Wikidata,66335,wikidata,2016-12-12T10:33:00Z
+28647058,1652,Wikidata:Requests for comment/Winner property for multi-tournament items,66399,wikidata,2016-11-21T15:38:00Z
+29373224,1653,Wikidata:Requests for comment/Editing descriptions from Wikipedia Android app,66400,wikidata,2016-12-05T15:09:00Z
+29574982,1654,Wikidata:Requests for comment/How to make new languages enabled on Wikidata,66410,wikidata,2017-01-11T21:23:00Z
+30398866,1655,Wikidata:Requests for comment/Property talk:P2868,66425,wikidata,
+30399164,1656,Wikidata:Requests for comment/P171,66427,wikidata,2018-09-29T17:09:00Z
+30482955,1657,Wikidata:Requests for comment/Q189053,66446,wikidata,2017-12-05T19:22:00Z
+30696641,1658,Wikidata:Requests for comment/Malformed input,66451,wikidata,2017-03-27T13:06:00Z
+30816988,1659,Wikidata:Requests for comment/Proposed client side disambiguation page,66453,wikidata,2017-12-05T19:25:00Z
+31295437,1660,Wikidata:Requests for comment/Updating References for External Data,66464,wikidata,2018-09-29T17:16:00Z
+31690757,1661,Wikidata:Requests for comment/Allow the creation of links to redirects in Wikidata,66470,wikidata,2018-11-06T16:38:00Z
+31914160,1662,"Wikidata:Requests for comment/How would you state the number of (rooms, restaurants, suites) in a hotel?",66716,wikidata,2018-09-29T17:21:00Z
+31944152,1663,Wikidata:Requests for comment/Findagrave removed as a source for information,66722,wikidata,2018-09-29T17:31:00Z
+32949067,1664,"Wikidata:Requests for comment/When multiple sources are cited for a fact, should IMDB be deleted as one of them when used",66794,wikidata,2018-09-29T17:38:00Z
+34578951,1665,Wikidata:Requests for comment/Property collapsing,66824,wikidata,2017-07-20T13:04:00Z
+34651219,1666,Wikidata:Requests for comment/Wikidata:Notabilty wording,66828,wikidata,
+43102463,1667,Wikidata:Requests for comment/Association Football Matches,66829,wikidata,
+43583596,1668,Wikidata:Requests for comment/Defining account creators,66836,wikidata,2018-01-23T19:37:00Z
+45935191,1669,Wikidata:Requests for comment/Privacy and Living People,66871,wikidata,
+53039243,1670,Wikidata:Requests for comment/Sort identifier statements on items that are instances of human,67063,wikidata,
+53533711,1671,"Wikidata:Requests for comment/make ""developer"" and ""programmer"" properties clearer",67129,wikidata,2021-03-03T19:59:00Z
+54307522,1672,Wikidata:Requests for comment/how to manage software versions,67144,wikidata,2021-03-03T19:53:00Z
+55379135,1673,Wikidata:Requests for comment/Help:Modelling,67163,wikidata,
+55840740,1674,Wikidata:Requests for comment/Adding short code for cryptocurrencies,67179,wikidata,
+56135451,1675,Wikidata:Requests for comment/1983-01-01 date of birth vs. 1988-00-00 date of birth (both only have a year specified),67183,wikidata,2021-03-03T19:56:00Z
+57237311,1676,Wikidata:Requests for comment/Different concepts in a single item,67185,wikidata,2021-03-03T19:52:00Z
+57659066,1677,Wikidata:Requests for comment/Best practices for statement ranks for disappeared entities,67196,wikidata,2021-03-03T20:20:00Z
+59054788,1678,Wikidata:Requests for comment/Many surname items had been un merged because of failure to communicate.,67212,wikidata,2021-03-03T20:10:00Z
+59279646,1679,Wikidata:Requests for comment/How to handle heat treating as a qualifier for material properties ?,67226,wikidata,2021-03-03T20:11:00Z
+61359555,1680,Wikidata:Requests for comment/semi-protection to prevent vandalism on most used Items,67230,wikidata,2019-06-24T12:31:00Z
+61585315,1681,Wikidata:Requests for comment/semi-protection to prevent vandalism on most used Items (part 2),67311,wikidata,2019-06-24T12:32:00Z
+61664592,1682,Wikidata:Requests for comment/Talk pages consultation 2019,67335,wikidata,
+63672937,1683,"Wikidata:Requests for comment/Talk pages consultation 2019, phase 2",67369,wikidata,
+79247036,1684,Wikidata:Requests for comment/Sort identifiers,67395,wikidata,
+93205993,1685,Wikidata:Requests for comment/Disallow merging into newer entity,67474,wikidata,
+97087952,1686,Wikidata:Requests for comment/Alternate disclosure policy,67514,wikidata,2022-08-17T06:47:00Z
+98737867,1687,Wikidata:Requests for comment/Cleaning up the ontology of anonymous,67543,wikidata,2021-05-30T11:10:00Z
+99527480,1688,Wikidata:Requests for comment/Adopt Help:SitelinksToRedirects as policy,67605,wikidata,2023-01-11T15:19:00Z
+104122507,1689,Wikidata:Requests for comment/Frequency of YouTube follower count data,67620,wikidata,2022-03-13T08:30:00Z
+104775611,1690,Wikidata:Requests for comment/How to avoid to use male form as a generic form in property labels in French?,67644,wikidata,
+106533331,1691,Wikidata:Requests for comment/I want to delete Q111589780.,67691,wikidata,
 61035,1692,Requests for comment/Board Election 2006,67693,meta.wikimedia,2006-09-30
 61940,1693,Requests for comment/Netoholic on Simple English Wikipedia,67762,meta.wikimedia,2006-10-15
 63532,1694,Requests for comment/Request to Stewards,67781,meta.wikimedia,2006-11-08
